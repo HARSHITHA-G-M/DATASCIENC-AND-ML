@@ -1,5 +1,67 @@
-1] This is a datascience project that predicts the cancer server conditions like tumor(1,0) and predict the value as 0 or 1 according to trained data set by using sklearn and accuracy score metrics in logistic regression.
-2] This is a datascience project that predicts the calories burn by using the XGBregressor by XGboostand check error by mean absolute value.
-3] This is a datascience project with ml algorithm that predicts the heart disease by predicting 0 as no heart disease and 1 as heart disease  by using sklearn and accuracy score metrics in logistic regression.
-4] This is a datascience project that predicts the rock or mine,predict the value as 0 or 1 according to trained data set by using sklearn and accuracy score metrics in logistic regression.
-5] This is a datascience project with ml algorithm that predicts the wine quality by predicting 0 or 1 by using sklearn and accuracy score metrics by random forest algorithm.
+# 🧠 Data Science & Machine Learning Projects
+
+![GitHub repo size](https://img.shields.io/github/repo-size/HARSHITHA-G-M/DATASCIENC-AND-ML)
+![GitHub last commit](https://img.shields.io/github/last-commit/HARSHITHA-G-M/DATASCIENC-AND-ML)
+![GitHub watchers](https://img.shields.io/github/watchers/HARSHITHA-G-M/DATASCIENC-AND-ML?style=social)
+![GitHub stars](https://img.shields.io/github/stars/HARSHITHA-G-M/DATASCIENC-AND-ML?style=social)
+
+---
+
+## 📘 Overview
+
+Welcome to my Data Science & Machine Learning project repository!  
+This repo contains beginner to intermediate-level machine learning projects with clean and well-documented Jupyter notebooks.
+
+Each project includes:
+- 📊 Data Analysis
+- 📈 Model Building
+- 📉 Evaluation Metrics
+- 💡 Insights
+
+---
+
+## 📂 List of Projects
+
+| 🧪 Project Name | 📄 Description |
+|----------------|----------------|
+| 🩺 **Breast Cancer Prediction** | Classifies tumor as benign or malignant using ML |
+| 🔥 **Calories Burnt Prediction** | Regression model that predicts calories burnt |
+| ❤️ **Heart Disease Prediction** | Detects heart disease risk based on patient data |
+| ⛏️ **Rock vs Mine Prediction** | Predicts sonar signal source as rock or mine |
+| 🍷 **Wine Quality Prediction** | Classifies wine quality based on chemical features |
+
+---
+
+## 🛠️ Tech Stack Used
+
+- 🐍 Python
+- 📊 Pandas, NumPy
+- 📈 Matplotlib, Seaborn
+- 🤖 scikit-learn
+- 🧠 Machine Learning Models
+- 📓 Jupyter Notebook
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Requirements:
+Install the required libraries before running notebooks:
+
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+
+🙋‍♀️ About Me
+I'm Harshitha G M, a Machine Learning and DevOps enthusiast!
+Currently building awesome projects in Python, ML, Docker, Kubernetes, and Cloud ☁️
+
+
+
+⭐ Support
+If you find these projects helpful:
+
+Star 🌟 this repo
+
+Share it with friends
